@@ -164,6 +164,11 @@ section.resume-section .img-profile {
   max-height: 16rem;
 }
 
+section.resume-section .my-auto {
+  margin-top: 4rem !important;
+  margin-bottom: 1rem !important;
+}
+
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 70vh;
