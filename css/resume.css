@@ -162,7 +162,7 @@ section.resume-section .resume-item .resume-date {
 section.resume-section .img-profile {
   max-width: 7rem;
   max-height: 7rem;
-  border: 0.5rem solid rgba(255, 255, 255, 0.2);
+  border: 0.3rem solid #0f62cc;
 }
 
 @media (min-width: 768px) {
@@ -171,6 +171,11 @@ section.resume-section .img-profile {
   }
   section.resume-section .resume-item .resume-date {
     min-width: 18rem;
+  }
+  section.resume-section .img-profile {
+    max-width: 16rem;
+    max-height: 16rem;
+    border: 0.4rem solid #0f62cc;
   }
 }
 
