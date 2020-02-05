@@ -1,4 +1,4 @@
 <?php 
 
-`git fetch --all`;
+`git fetch`;
 `git reset --hard origin/master`;
