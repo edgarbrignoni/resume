@@ -1,3 +1,4 @@
 public/docker-compose.yml
 public/database
 public/vendor
+.DS_Store
